@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nch5ma1ar483H+nIfeN4K8qgxFSHFz38XEU2eKJqjD6mSQZNuWp8XtGWahcBAOILMA58Uqj/m4kTA2V+6wMTKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SSA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SSA\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SSA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SSA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SSA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
