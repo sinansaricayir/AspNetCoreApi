@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhBsCkNQ6eHgfj4754ttMPP/dVVcPiEsJfC9NwyfgSkgtiDCjGWlgEHDl03Wo6jbFUGlDyutsp0OS5eVUFuE2w==",
+  "dgSpecHash": "ZGajYLVNQ63g2+DccRF2zP2kbgyWLFBc2vRcA/aNg6O1JdS4VQimsS16ECHgMTu4mcbFEHR/wz1yaYxETTjSSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SSA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SSA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

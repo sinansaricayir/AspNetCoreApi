@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/02RIGDF5Kv3h4jg3KcGeRBGRZIy/G2wA83xCB0+b9oH5pkw58MbEiLjS4nXZn7hpRsiODQe5fCoLagf/fBfkA==",
+  "dgSpecHash": "fTfQpYcWnaa8uBitMiOaaBLXIwRoKi8vsUPUxQv1nDd41ptS28RXFPs4VVY70l6lCHe1frC0GrygAhUI5+BGxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SSA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SSA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

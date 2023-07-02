@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {}
+    "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {
+    "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
         "projectName": "HotelProject.WebUI",
-        "projectPath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+        "projectPath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
         "packagesPath": "C:\\Users\\SSA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\Frontend\\HotelProject.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\Frontend\\HotelProject.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SSA\\AppData\\Roaming\\NuGet\\NuGet.Config",

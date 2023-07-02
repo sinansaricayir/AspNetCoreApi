@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNUQzI+0TB2LE70MHNGM1/OQabDG25PXNYjWXvjyLr7bF6/hIpcl0axUgOwF8YeGZsHbQl78er8mHf0PrcLGEw==",
+  "dgSpecHash": "0T0Nj1V9CJmhrtU3/VKJK0teNqyYG4bKEK8yKafrSPLw+/CzWww1y1f4IlfG+1Sm7cIyh6XCV2dNqjZrRl3+2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+  "projectFilePath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SSA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SSA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

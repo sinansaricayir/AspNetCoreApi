@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
+    "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+    "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "projectName": "HotelProject.EntityLayer",
-        "projectPath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\SSA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SSA\\source\\repos\\asp.net-core-api\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\SSA\\source\\repos\\AspNetCoreApi\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SSA\\AppData\\Roaming\\NuGet\\NuGet.Config",
