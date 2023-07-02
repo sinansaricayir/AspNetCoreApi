@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+@await Html.PartialAsync("/Views/AdminLAyout/HeadPartial.cshtml")
+
+<body>
+
+    @await Html.PartialAsync("/Views/AdminLAyout/HeaderPartial.cshtml")
+
+    @await Html.PartialAsync("/Views/AdminLAyout/SidebarPartial.cshtml")
+
+    <!--**********************************
+        Content body start
+    ***********************************-->
+    <div class="content-body">
+
+        <div class="container-fluid mt-3">
+
+            @RenderBody()
+
+        </div>
+        <!-- #/ container -->
+    </div>
+    <!--**********************************
+        Content body end
+    ***********************************-->
+
+
+    @await Html.PartialAsync("/Views/AdminLAyout/FooterPartial.cshtml")
+
+    @await Html.PartialAsync("/Views/AdminLAyout/ScriptPartial.cshtml")
+
+
+</body>
+
+</html>
+
