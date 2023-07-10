@@ -223,3 +223,5 @@ C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\ne
 C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminLayout\SidebarPartial.cshtml.g.cs
 C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminLayout\ScriptPartial.cshtml.g.cs
 C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminLayout\FooterPartial.cshtml.g.cs
+C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminLayout\PreLoaderPartial.cshtml.g.cs
+C:\Users\SSA\source\repos\AspNetCoreApi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminLayout\NavHeaderPartial.cshtml.g.cs

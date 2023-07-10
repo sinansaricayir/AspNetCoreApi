@@ -5,28 +5,35 @@
 
 <body>
 
-    @await Html.PartialAsync("/Views/AdminLAyout/HeaderPartial.cshtml")
+    @await Html.PartialAsync("/Views/AdminLAyout/PreLoaderPartial.cshtml")
 
-    @await Html.PartialAsync("/Views/AdminLAyout/SidebarPartial.cshtml")
+    <div id="main-wrapper">
 
-    <!--**********************************
-        Content body start
-    ***********************************-->
-    <div class="content-body">
+        @await Html.PartialAsync("/Views/AdminLAyout/NavHeaderPartial.cshtml")
 
-        <div class="container-fluid mt-3">
+        @await Html.PartialAsync("/Views/AdminLAyout/HeaderPartial.cshtml")
 
-            @RenderBody()
+        @await Html.PartialAsync("/Views/AdminLAyout/SidebarPartial.cshtml")
 
+        <div class="content-body">
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="card-body">
+                                @RenderBody()
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- #/ container -->
+
+
+        @await Html.PartialAsync("/Views/AdminLAyout/FooterPartial.cshtml")
+
     </div>
-    <!--**********************************
-        Content body end
-    ***********************************-->
-
-
-    @await Html.PartialAsync("/Views/AdminLAyout/FooterPartial.cshtml")
 
     @await Html.PartialAsync("/Views/AdminLAyout/ScriptPartial.cshtml")
 

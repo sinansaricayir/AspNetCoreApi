@@ -18,6 +18,16 @@ namespace HotelProject.WebUI.Controllers
             return PartialView();
         }
 
+        public PartialViewResult PreLoaderPartial()
+        {
+            return PartialView();
+        } 
+        
+        public PartialViewResult NavHeaderPartial()
+        {
+            return PartialView();
+        }   
+        
         public PartialViewResult HeaderPartial()
         {
             return PartialView();
